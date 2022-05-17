@@ -8,3 +8,8 @@
 
 ### 도움글
 - [:pushpin: Fork 뜨는 법](https://github.com/SAMMaru5/2022-SAMMaru-Algorithm/wiki/Fork-%EB%9C%A8%EB%8A%94-%EB%B0%A9%EB%B2%95)
+
+### 1주차 - 배열
+- 10808 알파벳 개수
+- 2577 숫자의 개수
+- 10818 최소, 최대
